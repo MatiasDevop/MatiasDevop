@@ -1,14 +1,6 @@
 ### Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href='http://fonts.googleapis.com/css?family=Contrail+One' rel='stylesheet' type='text/css'>
-  
-</head>
+
+
 <body onload="onLoad();">
     <div id="app_title" style="margin-bottom : 10px;">
         <table style="margin:0 auto; border-collapse: separate; border-spacing:15px;">
