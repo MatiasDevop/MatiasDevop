@@ -1,26 +1,5 @@
 ### Hi there 👋
 
-<script src="app.js"></script>
-
-<div onload="onLoad();">
-    <div id="app_title" style="margin-bottom : 10px;">
-        <table style="margin:0 auto; border-collapse: separate; border-spacing:15px;">
-         <tr>
-             <td>
-                 <!-- Matrix Effect Banner -->
-                 <ins class="adsbygoogle"
-                      style="display:inline-block;width:728px;height:90px"
-                      data-ad-client="ca-pub-6053497427111977"
-                      data-ad-slot="9270488445"></ins>
-             </td>
-         </tr>
-        </table>
-         </div>
-     <div id="content">
-         <canvas id="canvas" style="width: 1200px;height: 400px;></canvas>
-     </div>  
-</div>
-
 <!--
 **MatiasDevop/MatiasDevop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
