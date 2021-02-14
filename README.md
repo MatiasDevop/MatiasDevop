@@ -1,11 +1,7 @@
 ### Hi there 👋
-<<<<<<< HEAD
 
 <script src="app.js"></script>
-=======
-<script src="app.js"></script>
 
->>>>>>> 0515a68a48d8f4d88f3f7cfdb5896edfcfeb8fba
 <div onload="onLoad();">
     <div id="app_title" style="margin-bottom : 10px;">
         <table style="margin:0 auto; border-collapse: separate; border-spacing:15px;">
