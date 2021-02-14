@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<script src="app.js"></script>
 
 <div onload="onLoad();">
     <div id="app_title" style="margin-bottom : 10px;">
