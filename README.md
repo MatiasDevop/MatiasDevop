@@ -7,35 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href='http://fonts.googleapis.com/css?family=Contrail+One' rel='stylesheet' type='text/css'>
-    <style>
-       
-		h1, a, a:hover, a:active, a:visited {
-			 font-family: 'Contrail One', Arial;
-			 font-size : 32px;
-			 font-weight: 400;
-			 color : rgb(16, 89, 154);
-			 padding : 0;
-			 margin:0;
-			 text-decoration: none;
-		}
-		
-		a:hover {
-			color : red;
-		}
-		
-		#content {
-			width: 1300px;
-			height: 700px;
-			margin : 0 auto;
-		}
-		
-		canvas {
-			width : 1300px;
-			height : 400px;
-		}
-		
-	
-    </style>
+  
 </head>
 <body onload="onLoad();">
     <div id="app_title" style="margin-bottom : 10px;">
@@ -52,7 +24,7 @@
         </table>
          </div>
      <div id="content">
-         <canvas id="canvas"></canvas>
+         <canvas id="canvas" style="width: 1200px;height: 400px;></canvas>
      </div>
 
     <script type="text/javascript">
