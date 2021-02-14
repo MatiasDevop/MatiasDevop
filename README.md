@@ -41,18 +41,12 @@
     <div id="app_title" style="margin-bottom : 10px;">
         <table style="margin:0 auto; border-collapse: separate; border-spacing:15px;">
          <tr>
-             <!-- <td><h1><a href="http://www.ssaurel.com/matrixeffect/">Matrix Effect Live Wallpaper</a></h1></td>
-             <td><a href="https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect" target="_blank"><img alt="Android app on Google Play" src="./images/playstore_badge.png" style="width:172px; height:51px;" /></a></td> -->
              <td>
-                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                  <!-- Matrix Effect Banner -->
                  <ins class="adsbygoogle"
                       style="display:inline-block;width:728px;height:90px"
                       data-ad-client="ca-pub-6053497427111977"
                       data-ad-slot="9270488445"></ins>
-                 <script>
-                 (adsbygoogle = window.adsbygoogle || []).push({});
-                 </script>
              </td>
          </tr>
         </table>
