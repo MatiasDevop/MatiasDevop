@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
                                          😄 I'm looking for a remote job long term let me know........
                                                       💬 Ask me about anything related to Angular or .Net ...
-
-https://github.com/MatiasDevop/MatiasDevop/issues/1#issue-808399168
+https://github.com/MatiasDevop/MatiasDevop/blob/main/netng.png
