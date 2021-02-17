@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <!--[How i build this ](https://github.com/MatiasDevop/MatiasDevop/blob/main/index.html)-->
 <p align="center">
   <a href="https://twitter.com/NestorM2045">
-    <!--<img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />-->
+    <img src="https://img.shields.io/github/followers/NestorM2045?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
