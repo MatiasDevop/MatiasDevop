@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/NestorM2045">
     <img src="https://img.shields.io/twitter/follow/NestorM2045?label=follow%20me&logo=twitter&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/NestorM2045">
-    <img src="https://img.shields.io/twitter/follow/NestorM2045?label=follow%20me&logo=twitter&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/MatiasDevop?tab=followers">
+    <img src="https://img.shields.io/github/followers/MatiasDevop?color=black&label=follow%20me&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 
