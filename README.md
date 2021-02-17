@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://twitter.com/NestorM2045">
     <img src="https://img.shields.io/twitter/follow/NestorM2045?label=follow%20me&logo=twitter&style=for-the-badge" alt="GitHub badge" />
-    
-   
   </a>
 </p>
  <!-- <img src="https://img.shields.io/github/followers/NestorM2045?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> -->
