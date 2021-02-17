@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   </a>
   
 </p>
-<p> 
+<!--<p> 
  <a href="https://www.linkedin.com/in/nestor-matias-a-192436186/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub badge" />
   </a>
-</p>
+</p>-->
 
  <!-- <img src="https://img.shields.io/github/followers/NestorM2045?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> -->
