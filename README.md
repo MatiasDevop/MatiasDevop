@@ -1,5 +1,5 @@
                                                         ### Hi there 👋 
-               I enjoy building full-stack applications. My go to languages are Net(c#), Angular, TypeScript
+               I enjoy building full-stack applications. My go to languages are Net(c#), Angular, React, Vue, TypeScript
 
 <!--
 **MatiasDevop/MatiasDevop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
