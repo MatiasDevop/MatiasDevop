@@ -1,6 +1,6 @@
                                                         ### Hi there 👋 
                I enjoy building full-stack applications. My go to languages are Net(c#), Angular, React, Vue, TypeScript,
-               Currently learning BlockChain, SmartContracts, Solidity, Web3 and so on...
+               Currently learning BlockChain, Smart Contracts, Solidity, Web3 and so on...
 
 <!--
 **MatiasDevop/MatiasDevop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
