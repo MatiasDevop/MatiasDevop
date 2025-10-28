@@ -1,5 +1,5 @@
                                                         ### Hi there 👋 
-               I enjoy building full-stack applications. My go to languages are Net(c#), React, Angular, TypeScript,
+               I enjoy building full-stack applications. My go to languages are Net(c#), React(NextJS), Angular, TypeScript,
                Currently learning BlockChain, Smart Contracts, Solidity, Web3 and so on...
 
 <!--
