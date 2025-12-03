@@ -78,7 +78,7 @@ I'm a **Full-stack Software Engineer** with over **8 years of experience** build
 ---
 ### 🌱 I’m Currently Learning
 - Learning how to use **MCP** with **Vibe Coding** to enhance modern app creation, enabling real-time access to tools, APIs, and external resources.
-- Exploring **blockchain technology** and **Ethereum | Solana** for web3 integration Wallets, libs, Dapps, CEXes, DEXes among others.
+- Exploring **blockchain tech** on **Ethereum and Solana** testing Web3 integrations like wallets, libraries, DApps, CEXes, DEXes, and more for decentralized innovation.
 
 <!--
 
