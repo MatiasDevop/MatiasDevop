@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full-stack Software Engineer** with over **8 years of experience** building dynamic, scalable web applications and architecting **microservice-based systems**. I have extensive experience working with **message brokers** such as **Kafka**, which enables real-time data streaming and enhances communication in distributed systems. My passion lies in problem-solving and delivering robust software solutions using modern tech stacks.
+I'm a **Full-stack Software Engineer** with over **8 years of experience** building dynamic, scalable web applications and architecting **microservice-based systems**. I have extensive experience working with **Moderem languales and Frameworks** such as **.NET**, **Angular**, **React**, My passion lies in problem-solving and delivering robust software solutions using modern tech stacks.
 
 
 ---
