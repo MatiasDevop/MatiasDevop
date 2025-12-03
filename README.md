@@ -77,7 +77,7 @@ I'm a **Full-stack Software Engineer** with over **8 years of experience** build
 
 ---
 ### 🌱 I’m Currently Learning
-- Exploring **blockchain technology** and **Ethereum | Solana** for web3 integration wallets, libs, dapps, dexes, cexes among others.
+- Exploring **blockchain technology** and **Ethereum | Solana** for web3 integration Wallets, libs, Dapps, CEXes, DEXes among others.
 
 <!--
 
