@@ -62,6 +62,13 @@ I'm a **Full-stack Software Engineer** with over **8 years of experience** build
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white)
 
 ---
+#### Message Brokers:
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white)
+
+---
 
 <!--
 
