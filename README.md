@@ -2,6 +2,20 @@
                I enjoy building full-stack applications. My go to languages are Net(c#), React(NextJS), Angular, TypeScript,
                Currently learning BlockChain, Smart Contracts, Solidity, Web3 and so on...
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nestor-matias-a-192436186/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nestor%20Matias-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://portfolio-main-tau-eosin.vercel.app">
+    <img src="https://img.shields.io/badge/Dev.to-Nestor%20Matias-black?logo=dev.to" alt="Dev.to">
+  </a>
+  <a href="mailto:solomatias321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me!-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
 <!--
 **MatiasDevop/MatiasDevop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +27,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
                                       
