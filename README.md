@@ -1,7 +1,6 @@
                                                         ### Hi there 👋 
                I enjoy building full-stack applications. My go to languages are Net(c#), React(NextJS), Angular, TypeScript,
-               Currently learning BlockChain, Smart Contracts, Solidity, Web3 and so on...
-
+               Currently learning Net new feautres, NextJS moderen capabilities, Angular Signals...
 <p align="center">
   <a href="https://www.linkedin.com/in/nestor-matias-a-192436186/">
     <img src="https://img.shields.io/badge/LinkedIn-Nestor%20Matias-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
