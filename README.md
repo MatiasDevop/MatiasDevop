@@ -40,6 +40,7 @@ I'm a **Full-stack Software Engineer** with over **8 years of experience** build
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ---
 
